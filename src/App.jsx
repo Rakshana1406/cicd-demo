@@ -2,7 +2,8 @@ function App() {
   return (
     <div>
       <h1>Hello CI/CD</h1>
-      <p>Broken syntax test
+      <p>CI/CD Pipeline is working perfectly!</p>
+    </div>
   );
 }
 
